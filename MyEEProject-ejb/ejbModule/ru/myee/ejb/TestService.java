@@ -15,7 +15,7 @@ public class TestService {
 	@Named
 	public double getRnd(){
 		return Math.random();
-	}
+ 	}
 	
 	@Produces
 	@Named("a1")
